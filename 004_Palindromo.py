@@ -1,3 +1,5 @@
+# tiempo: 0.0687 segundos
+
 def euler4(s):	
 	a = 999
 	c = 999
